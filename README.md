@@ -14,7 +14,7 @@
 
  1. [Proje Planı](https://github.com/drtszprns/DENEME43/wiki/Proje-Plan%C4%B1)
 1.  [Gereksinim Analizi](https://github.com/drtszprns/DENEME43/wiki/Gereksinim-Analizi)
-1.  Durum Diyagramı 
+1.  [Durum Diyagramı](https://github.com/drtszprns/DENEME43/wiki/Durum-Diyagram%C4%B1) 
 1.  Durum Senaryoları
 1.  Veritabanı Diyagramı 
 1.  Front-End 
