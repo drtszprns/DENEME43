@@ -21,3 +21,8 @@
 1.  Back-End
 1.  Test 
 1.  Geliştirici ve Kullanıcı Dökümantasyonu 
+
+# Gereksinim Dağılımları
+1.  kayıt ol
+1.  şifre değiştir 
+
