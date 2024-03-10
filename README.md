@@ -12,7 +12,7 @@
 
   Proje Ekibi : Berkan ,Burak 
 
- 1. [Proje Planı](https://github.com/drtszprns/DENEME43/blob/main/Proje%20Plan%C4%B1.md)
+ 1. [Proje Planı ](https://github.com/drtszprns/DENEME43/blob/main/Wiki/ProjePlan%C4%B1.md)
 1.  [Gereksinim Analizi](https://github.com/drtszprns/DENEME43/blob/main/GereksinimAnalizi.md)
 1.  [Durum Diyagramı](https://github.com/drtszprns/DENEME43/wiki/Durum-Diyagram%C4%B1) 
 1.  Durum Senaryoları
